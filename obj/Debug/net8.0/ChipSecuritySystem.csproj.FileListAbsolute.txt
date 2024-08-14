@@ -1,0 +1,15 @@
+/Users/maiklzaki/Desktop/ChipSecuritySystem/bin/Debug/net8.0/ChipSecuritySystem
+/Users/maiklzaki/Desktop/ChipSecuritySystem/bin/Debug/net8.0/ChipSecuritySystem.deps.json
+/Users/maiklzaki/Desktop/ChipSecuritySystem/bin/Debug/net8.0/ChipSecuritySystem.runtimeconfig.json
+/Users/maiklzaki/Desktop/ChipSecuritySystem/bin/Debug/net8.0/ChipSecuritySystem.dll
+/Users/maiklzaki/Desktop/ChipSecuritySystem/bin/Debug/net8.0/ChipSecuritySystem.pdb
+/Users/maiklzaki/Desktop/ChipSecuritySystem/obj/Debug/net8.0/ChipSecuritySystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maiklzaki/Desktop/ChipSecuritySystem/obj/Debug/net8.0/ChipSecuritySystem.AssemblyInfoInputs.cache
+/Users/maiklzaki/Desktop/ChipSecuritySystem/obj/Debug/net8.0/ChipSecuritySystem.AssemblyInfo.cs
+/Users/maiklzaki/Desktop/ChipSecuritySystem/obj/Debug/net8.0/ChipSecuritySystem.csproj.CoreCompileInputs.cache
+/Users/maiklzaki/Desktop/ChipSecuritySystem/obj/Debug/net8.0/ChipSecuritySystem.sourcelink.json
+/Users/maiklzaki/Desktop/ChipSecuritySystem/obj/Debug/net8.0/ChipSecuritySystem.dll
+/Users/maiklzaki/Desktop/ChipSecuritySystem/obj/Debug/net8.0/refint/ChipSecuritySystem.dll
+/Users/maiklzaki/Desktop/ChipSecuritySystem/obj/Debug/net8.0/ChipSecuritySystem.pdb
+/Users/maiklzaki/Desktop/ChipSecuritySystem/obj/Debug/net8.0/ChipSecuritySystem.genruntimeconfig.cache
+/Users/maiklzaki/Desktop/ChipSecuritySystem/obj/Debug/net8.0/ref/ChipSecuritySystem.dll
