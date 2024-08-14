@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChipSecuritySystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3746933c7c4c1731b363499514ec461d37dd43d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4fcd9c68820175e83f7d7be891cc195645f222e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChipSecuritySystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChipSecuritySystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
